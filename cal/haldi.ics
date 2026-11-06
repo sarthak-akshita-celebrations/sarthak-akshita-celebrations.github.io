@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sarthak & Akshita//Wedding//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:haldi-2026@sarthak-akshita
+DTSTAMP:20261106T000000Z
+DTSTART:20261201T080000Z
+DTEND:20261201T090000Z
+SUMMARY:Haldi · Sarthak & Akshita
+LOCATION:TatSaraasa Resort\, Lakhawali\, Udaipur
+DESCRIPTION:Wedding celebrations of Sarthak & Akshita. Tuesday\, 1 December · 1:30 PM (IST). https://sarthak-akshita-celebrations.github.io/
+URL:https://sarthak-akshita-celebrations.github.io/
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Haldi
+END:VALARM
+END:VEVENT
+END:VCALENDAR

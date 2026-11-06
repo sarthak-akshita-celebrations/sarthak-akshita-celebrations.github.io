@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sarthak & Akshita//Wedding//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:phere-2026@sarthak-akshita
+DTSTAMP:20261106T000000Z
+DTSTART:20261202T120000Z
+DTEND:20261202T130000Z
+SUMMARY:Phere · Sarthak & Akshita
+LOCATION:TatSaraasa Resort\, Lakhawali\, Udaipur
+DESCRIPTION:Wedding celebrations of Sarthak & Akshita. Wednesday\, 2 December · 5:30 PM (IST). https://sarthak-akshita-celebrations.github.io/
+URL:https://sarthak-akshita-celebrations.github.io/
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Phere
+END:VALARM
+END:VEVENT
+END:VCALENDAR

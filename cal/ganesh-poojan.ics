@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sarthak & Akshita//Wedding//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ganesh-poojan-2026@sarthak-akshita
+DTSTAMP:20261106T000000Z
+DTSTART:20261201T053000Z
+DTEND:20261201T063000Z
+SUMMARY:Ganesh Poojan & Mandap · Sarthak & Akshita
+LOCATION:TatSaraasa Resort\, Lakhawali\, Udaipur
+DESCRIPTION:Wedding celebrations of Sarthak & Akshita. Tuesday\, 1 December · 11:00 AM (IST). https://sarthak-akshita-celebrations.github.io/
+URL:https://sarthak-akshita-celebrations.github.io/
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Ganesh Poojan & Mandap
+END:VALARM
+END:VEVENT
+END:VCALENDAR

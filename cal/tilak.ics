@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sarthak & Akshita//Wedding//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:tilak-2026@sarthak-akshita
+DTSTAMP:20261106T000000Z
+DTSTART:20261202T060000Z
+DTEND:20261202T070000Z
+SUMMARY:Tilak · Sarthak & Akshita
+LOCATION:TatSaraasa Resort\, Lakhawali\, Udaipur
+DESCRIPTION:Wedding celebrations of Sarthak & Akshita. Wednesday\, 2 December · 11:30 AM (IST). https://sarthak-akshita-celebrations.github.io/
+URL:https://sarthak-akshita-celebrations.github.io/
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Tilak
+END:VALARM
+END:VEVENT
+END:VCALENDAR
